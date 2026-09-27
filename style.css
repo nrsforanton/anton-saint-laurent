@@ -220,14 +220,14 @@ footer {
     width: 100%;
     max-width: none;
     margin: 0;
-    padding: 40px 25px;
-    min-height: 220px;
-    box-shadow: 7px 7px 0 #111;
+    padding: 30px 20px;
+    min-height: 160px;
+    box-shadow: 6px 6px 0 #111;
   }
 
   .quote {
-    font-size: 29px;
-    min-height: 240px;
+    font-size: 25px;
+    min-height: 120px;
   }
 
 .actions {
