@@ -3395,7 +3395,7 @@ const sentences = [
   "The styling of Anton's Saint Laurent outfit is exceptionally clean.",
   "Anton wears Saint Laurent with the kind of presence made for Paris.",
   "This YSL look gives Anton that effortlessly chic PFW feeling.",
-  "Anton in Saint Laurent is serving pure Paris Fashion Week energy."
+  "Anton in Saint Laurent is serving pure Paris Fashion Week energy.",
   "This Saint Laurent look is sleek, elegant, and perfect on Anton.",
   "Anton in YSL has exactly the kind of quiet luxury energy I love.",
   "The entire Saint Laurent look on Anton feels incredibly well balanced.",
