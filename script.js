@@ -182,7 +182,6 @@ const sentences = [
   "Anton makes YSL look like it was made just for him.",
   "Anton Lee in Saint Laurent is everything.",
   "YSL and Anton together are simply unforgettable.",
-  "Anton looks like the perfect Saint Laurent ambassador.",
   "Anton Lee is giving luxury fashion in YSL.",
   "Saint Laurent looks even more iconic on Anton.",
   "Anton in YSL is a visual masterpiece.",
